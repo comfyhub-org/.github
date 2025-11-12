@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/comfyhub-org.png" width="200">
-  <h2>ComfyDock</h2>
-  <b>Open Source</b> tools to help you manage and containerize ComfyUI environments
+  <h2>ComfyHub Org</h2>
+  <b>Open Source</b> tools to help you manage and deploy ComfyUI environments
 </div>
 
 <br>
